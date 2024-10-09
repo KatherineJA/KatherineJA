@@ -1,16 +1,13 @@
-## Hi there 👋
+Welcome to my GitHub!
 
-<!--
-**KatherineJA/KatherineJA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying Systems Engineering, and I'm passionate about software development.
+My main focus is on C++ and Java as I continue to expand my knowledge across different languages.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What you'll find here:
+C++ Projects:
+Examples of object-oriented programming (OOP) concepts, algorithms, problem-solving tasks+, etc.
+Java Projects: 
+Applications implementing design patterns like MVC, with an emphasis on data handling and user interface integration.
+I'm always eager to learn and improve, and I hope these projects reflect my journey as a developer and my growth throughout my degree.
+Feel free to check them out!
